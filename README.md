@@ -51,10 +51,6 @@
 
 ## 使い方
 
-作業ディレクトリ:
-
-    C:\Users\Owner\workspace\geoguesser_maker
-
 ### 小地域ごとに分割する
 
     uv run python main.py input --output-dir output/xxxx_areas --group-field S_NAME
