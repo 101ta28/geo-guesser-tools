@@ -53,7 +53,7 @@
 
 ### 小地域ごとに分割する
 
-    uv run python main.py input --output-dir output/xxxx_areas --group-field S_NAME
+    uv run main.py input --output-dir output/xxxx_areas --group-field S_NAME
 
 出力例:
 
@@ -63,7 +63,7 @@
 
 `S_NAME` の代わりに他の属性列でまとめたい場合は `--group-field` を変えます。
 
-    uv run python main.py input --output-dir output/by_keycode --group-field KEY_CODE
+    uv run main.py input --output-dir output/by_keycode --group-field KEY_CODE
 
 ## 出力
 
