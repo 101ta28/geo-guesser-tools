@@ -22,7 +22,7 @@
    分割後のデータを使って、スポーン地点を自動生成します。  
    https://map-g3nerator.vercel.app
 
-4. スポーツ地点をチェックする
+4. スポーン地点をチェックする
 
    生成した地点を確認・検証します。  
    https://mapcheckr.vercel.app
