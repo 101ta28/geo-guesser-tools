@@ -1,4 +1,4 @@
-# geo-guesser-tools
+# geo-guessr-tools
 
 町域や小地域の Shapefile 一式を `input` フォルダに置き、属性ごとにまとめて GeoJSON 化するツールです。
 
